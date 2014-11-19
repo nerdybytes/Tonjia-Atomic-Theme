@@ -1,0 +1,263 @@
+#main
+{
+	margin:50px;
+	width:700px;
+	background:#0F9;
+}
+
+.smaller
+{
+
+font-size:12px;
+	
+}
+
+
+#main_image{
+	
+	width:750px;
+	height:600px;
+	background:url(http://www.tonjiaatomic.com/wp-content/uploads/2012/05/tonjia_skull.png) no-repeat scroll 58% transparent;
+	/*margin-left: auto;
+    margin-right: auto;*/
+	float:left;	
+	/*padding:150px;*/
+	/*background-attachment:fixed;*/
+	background-position:50% 0%; 
+	font-size:14px;
+	}
+
+
+#left
+{
+	
+	float:left;
+	width: 250px;
+}
+
+#right
+{
+	margin: 25px -100px 0 0px;
+	float:right;
+	
+}
+
+
+#bill
+{
+	width:300px;
+	 margin: 25px 0 0 40px;
+}
+
+#bill a
+{
+	text-decoration:none;
+color:#EBEF7D;
+
+}
+
+#bill a:hover
+{
+text-decoration:none;
+color:#C19CCF;
+
+}
+
+#nadine
+{
+width:300px;
+margin: 45px 0 0 -20px;
+}
+
+#nadine a
+{
+text-decoration:none;
+color:#EBEF7D;
+
+}
+
+#nadine a:hover
+{
+text-decoration:none;
+color:#C19CCF;	
+
+}
+
+#katie
+{
+width:300px;
+margin: 45px 0 0 -35px;
+}
+
+#katie a
+{
+	text-decoration:none;
+color:#EBEF7D;
+
+}
+
+#katie a:hover
+{
+text-decoration:none;
+color:#C19CCF;	
+
+}
+
+#soska
+{
+	/*float:right;*/
+	width:300px;
+	margin: 25px 0 0 35px;
+}
+
+#soska a
+{
+	
+text-decoration:none;
+color:#EBEF7D;
+}
+
+#soska a:hover
+{
+text-decoration:none;
+color:#C19CCF;	
+
+}
+
+#andrew
+{
+	/*float:right;*/
+	width:300px;
+	margin: 25px 0 0 85px;
+}
+
+#andrew a
+{
+	text-decoration:none;
+color:#EBEF7D;
+
+}
+
+#andrew a:hover
+{
+	
+text-decoration:none;
+color:#C19CCF;
+}
+
+#hanna
+{
+	width:300px;
+/*float:right;*/
+ margin: 20px 0 0 70px;
+}
+
+#hanna a
+{
+	text-decoration:none;
+color:#EBEF7D;
+
+}
+
+#hanna a:hover
+{
+text-decoration:none;
+color:#C19CCF;	
+
+}
+
+h2 {#C19CCF; }
+
+.posts-list .content { 
+	margin-left: 103px;
+	line-height: 1;
+	min-height: 73px;
+	border-bottom: 1px solid #000;
+}
+
+.author-info [rel="author"] {
+text-transform: uppercase;
+color: #B8C8D8;
+}
+
+
+.main .sidebar:before {
+content: " ";
+position: absolute;
+border-left: 1px solid #000;
+height: 100%;
+margin-left: -25px;
+}
+
+a {
+color: #E5EEF7;
+text-decoration: none;
+-webkit-transition: all .4s ease-in-out;
+-moz-transition: all .4s ease-in-out;
+-o-transition: all .4s ease-in-out;
+transition: all .4s ease-in-out;
+}
+
+.breadcrumbs {
+ background: #000; 
+padding: 14px 25px;
+font-size: 12px;
+color: #8d97a1;
+line-height: 1;
+}
+
+.top-bar {
+background: #000;
+border-top: 4px solid #e54e53;
+border-bottom: 1px solid #e7e7e7;
+}
+
+
+.trending-ticker li {
+display: none;
+color: #FAF4F4;
+}
+
+.highlights h2 a {
+color: #e7e7e7;
+}
+
+.highlights .meta {
+position: relative;
+margin-top: -12px;
+background: #423D3D;
+line-height: 25px;
+font-size: 11px;
+color: #a6a6a6;
+text-transform: uppercase;
+padding-left: 14px;
+overflow: hidden;
+}
+
+.gallery-title, .section-head {
+background: #161616;
+border: 1px solid #d9d9d9;
+border-left: 0;
+border-right: 0;
+line-height: 32px;
+color: #DCE4EC;
+font-size: 13px;
+font-family: "Open Sans", Arial, sans-serif;
+font-weight: 600;
+text-transform: uppercase;
+padding: 0 14px;
+margin-bottom: 28px;
+}
+
+input, textarea {
+background: #2E2C2C;
+border: 1px solid #d9d9d9;
+padding: 7px 14px;
+outline: 0;
+font-size: 13px;
+color: #a6a6a6;
+}
+
+.highlights .excerpt, .listing-alt .content .excerpt {
+color: #F7F2F2;
+}

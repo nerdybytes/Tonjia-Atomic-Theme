@@ -9,7 +9,7 @@
 <div class="main wrap cf">
 
 	<div class="row">
-		<div class="col-6" id="main_image">
+		<div class="col-8" id="main_image">
 			<p>
 			"Bizarre and wonderful."
 			-Bill Oberst Jr., Abraham Lincoln vs Zombies
@@ -27,7 +27,7 @@
 		</div>
 	</div>	
 	<div class="row">
-		<div class="col-5">
+		<div class="col-3">
 		<?php get_sidebar(); ?>
 		</div>
 	</div>

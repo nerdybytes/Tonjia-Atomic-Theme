@@ -9,8 +9,12 @@
 <div class="main wrap cf">
 
 	<div class="row">
-		<div class="col-8" id="main_image">
+		<div class="col-12" id="main_image">
 			<p>
+
+				Josh is like super cool omg
+
+
 			"Bizarre and wonderful."
 			-Bill Oberst Jr., Abraham Lincoln vs Zombies
 			"Awesome Ouija Board caught my attention enough to search out who made it and eventually get some great advice from as a filmmaker."
@@ -27,7 +31,7 @@
 		</div>
 	</div>	
 	<div class="row">
-		<div class="col-3">
+		<div class="col">
 		<?php get_sidebar(); ?>
 		</div>
 	</div>

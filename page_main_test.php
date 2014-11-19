@@ -14,6 +14,8 @@
 
 				Josh is like super cool omg
 
+				Like Damn Dude you're da bomb
+
 
 			"Bizarre and wonderful."
 			-Bill Oberst Jr., Abraham Lincoln vs Zombies
